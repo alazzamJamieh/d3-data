@@ -1,0 +1,11 @@
+Type,Percentage
+Normal,79.799
+Generic,14.062
+Exploits,2.599
+Fuzzers,1.225
+DoS,1.115
+Reconnaissance,0.802
+Analysis,0.152
+Backdoor,0.151
+Shellcode,0.084
+Worms,0.01

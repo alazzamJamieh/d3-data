@@ -1,0 +1,8 @@
+proto,Normal,Attack
+sctp,0,469
+arp,1095,0
+icmp,117,0
+ospf,458,1046
+gre,0,105
+any,0,117
+unas,0,4680

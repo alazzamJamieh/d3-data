@@ -1,0 +1,6 @@
+service,Normal,Attack
+dhcp,0,45
+snmp,0,26
+ssl,0,30
+radius,3,6
+irc,0,7

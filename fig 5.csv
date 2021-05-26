@@ -1,0 +1,5 @@
+service,Normal,Attack
+smtp,10956,1267
+ssh,6860,5
+ftp,6238,719
+pop3,0,363
